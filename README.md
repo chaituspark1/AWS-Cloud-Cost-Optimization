@@ -28,7 +28,7 @@ This project aims to reduce AWS storage costs by automatically identifying and d
    - Choose Python 3.x as the runtime environment.
 
 2. **Copy the Lambda Function Code:**
-   - Copy the code from `lambda_function.py` (provided below) into the Lambda function editor.
+   - Copy the code from `ebs_snapshot_cleanup.py` (provided above) into the Lambda function editor.
 
 3. **Set Up IAM Role:**
    - Create an IAM role with the following permissions:
